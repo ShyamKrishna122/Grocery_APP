@@ -1,6 +1,10 @@
-# grocery
+# Grocery_APP
 
-A new Flutter project.
+This is a online grocery selling app developed using flutter and firebase for a grocery shop. This app was developed for one of my client's grocery stores.The main aim of making this project open source is because this project will cover all the basics of flutter and firebase.
+
+##APP Screenshots
+
+
 
 ## Getting Started
 
