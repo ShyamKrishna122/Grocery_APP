@@ -7,6 +7,7 @@ This is a online grocery selling app developed using flutter and firebase for a 
  
  
 <div>
+    <img src="/screenshots/splash_screen.jpeg" width="300px" height="500px"</img>
     <img src="/screenshots/login_page.jpeg" width="300px" height="500px"</img>
     <img src="/screenshots/admin_panel.jpeg" width="300px" height="500px"</img>
     <img src="/screenshots/main_page.jpeg" width="300px" height="500px"</img>
